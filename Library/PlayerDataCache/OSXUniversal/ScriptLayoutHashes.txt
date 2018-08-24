@@ -1,6 +1,6 @@
 OSXStandalone
 PlayerPath?
-/Users/ning/TestProjectV2/Medusa.app
+/Users/ning/Medusa/Builds/MacOS/Medusa.app
 SceneListBegin?
 Assets/Scenes/Cover.unity
 Assets/Scenes/Level1.unity
