@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{EE5A86EA-6AFA-9D41-5D22-F1E87BEDCCFE}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TextLoadNextScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CharacterDeath.cs" Line="10" Column="13" />
+      <File FileName="Assets/Scripts/Collision.cs" Line="63" Column="36" />
+      <File FileName="Assets/Scripts/checkFallingOnHead.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/CharacterMovement.cs" Line="55" Column="26" />
+      <File FileName="Assets/Scripts/LevelSelector.cs" Line="10" Column="43" />
+      <File FileName="Assets/Scripts/PressM.cs" Line="32" Column="12" />
+      <File FileName="Assets/Scripts/TextLoadNextScene.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/LoadNextScene.cs" Line="79" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
