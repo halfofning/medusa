@@ -1,6 +1,6 @@
 # medusa 🌼
 
-<img src="medusa-ss.png" alt="logo" style="max-width: 500px;">
+<img src="medusa-ss.png" alt="logo" style="max-width: 50%;">
 
 A short game made for the Game Production module.
 
