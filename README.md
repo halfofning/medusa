@@ -1,10 +1,7 @@
-# medusa 🌼
-
-<img src="medusa-ss.png" alt="logo" style="max-width: 50%;">
-
+# medusa 🦑
 A short game made for the Game Production module.
 
-### Instructions
+## Instructions
 1. Download project ZIP
 2. Head over to "Builds" folder
 3. Choose your OS
